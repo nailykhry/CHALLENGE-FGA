@@ -12,7 +12,7 @@ import (
 var (
 	host     = "localhost"
 	user     = "postgres"
-	password = "*naily*"
+	password = "password"
 	dbPort   = "5432"
 	dbname   = "BOOK_ORM"
 	db       *gorm.DB
