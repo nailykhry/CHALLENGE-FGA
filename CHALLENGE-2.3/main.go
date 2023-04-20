@@ -1,7 +1,7 @@
 package main
 
 import (
-	routers "CHALLENGE-2.2/routes"
+	routers "CHALLENGE-2.3/routes"
 )
 
 func main() {

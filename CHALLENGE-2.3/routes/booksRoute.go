@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"CHALLENGE-2.2/controllers"
+	"CHALLENGE-2.3/controllers"
 
 	"github.com/gin-gonic/gin"
 )
